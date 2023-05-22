@@ -1,2 +1,3 @@
 # cmake_meta
-CMake元配置
+CMake元包
+
